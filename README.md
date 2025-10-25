@@ -46,7 +46,7 @@ This project deploys a **simple web page**, originally part of a larger applicat
 CI/CD/
 ├── Docker-files/               # Dockerfiles for app, db, web
 ├── gcloud-cli-setup/           # Scripts for VM, IAM, and firewall setup
-├── prodPipeline/               # Jenkins pipeline & helper scripts
+├── Jenkinsfile/               # Jenkins pipeline
 ├── src/                        # Application source code
 ├── pom.xml                     # Maven build configuration
 ├── settings.xml                # Maven settings for Nexus credentials
